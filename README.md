@@ -147,30 +147,30 @@ Customer_Churn_Prediction_Project/
 ## Dashboard Preview
 
 ### Executive Summary
-![Executive Summary](images/Executive_Summary.png)
+![Executive Summary](images/Executive Summary.png)
 
 ### Customer Analysis
-![Customer Analysis](images/Customer_Analysis.png)
+![Customer Analysis](images/Customer Analysis.png)
 
 ### Business Recommendations
-![Business Recommendations](images/Business_Recommendations.png)
+![Business Recommendations](images/Business Recommendations.png)
 
 ## Customer Churn Analysis
 
 ### Customer Churn Distribution
-![Customer Churn Distribution](images/Customer_Churn_Distribution.png)
+![Customer Churn Distribution](images/Customer Churn Distribution.png)
 
 ### Contract Type vs Churn
-![Contract Type vs Churn](images/Contract_Type_vs_Churn.png)
+![Contract Type vs Churn](images/ContractType vs Churn.png)
 
 ### Monthly Charges vs Churn
-![Monthly Charges vs Churn](images/Monthly_Charges_vs_Churn.png)
+![Monthly Charges vs Churn](images/Monthly Charges vs Churn.png)
 
 ### Tenure vs Churn
-![Tenure vs Churn](images/Tenure_vs_Churn.png)
+![Tenure vs Churn](images/Tenure vs Churn.png)
 
 ### Confusion Matrix
-![Confusion Matrix](images/Confusion_Matrix.png)
+![Confusion Matrix](images/Confusion Matrix.png)
 
 
 
