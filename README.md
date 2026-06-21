@@ -101,7 +101,6 @@ Customer_Churn_Prediction_Project/
 ├── data/
 │   ├── raw/
 │   │   └── WA_Fn-UseC_-Telco-Customer-Churn.csv
-│   │
 │   └── processed/
 │       └── cleaned_churn_data.csv
 │
@@ -131,10 +130,7 @@ Customer_Churn_Prediction_Project/
 │   ├── Contract_Type_vs_Churn.png
 │   ├── Monthly_Charges_vs_Churn.png
 │   ├── Tenure_vs_Churn.png
-│   ├── Confusion_Matrix.png
-│   ├── Executive_Summary.png
-│   ├── Customer_Analysis.png
-│   └── Business_Recommendations.png
+│   └── Confusion_Matrix.png
 │
 ├── reports/
 │   ├── EDA_Report.docx
