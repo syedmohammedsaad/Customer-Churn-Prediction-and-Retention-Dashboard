@@ -161,7 +161,7 @@ Customer_Churn_Prediction_Project/
 ![Customer Churn Distribution](images/Customer Churn Distribution.png)
 
 ### Contract Type vs Churn
-![Contract Type vs Churn](images/ContractType vs Churn.png)
+![Contract Type vs Churn](images/Contract Type vs Churn.png)
 
 ### Monthly Charges vs Churn
 ![Monthly Charges vs Churn](images/Monthly Charges vs Churn.png)
