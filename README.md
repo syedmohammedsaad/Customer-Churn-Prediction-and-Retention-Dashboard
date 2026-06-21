@@ -144,8 +144,22 @@ Customer_Churn_Prediction_Project/
 └── .gitignore
 ```
 
+## Dashboard Preview
+
+![Dashboard](powerbi/dashboard_screenshots/Executive_Summary.png)
+
+
+## Customer Churn Analysis
+
+
+![Churn Distribution](images/Customer_Churn_Distribution.png)
+
+![Contract Type vs Churn](images/Contract_Type_vs_Churn.png)
+
+![Confusion Matrix](images/Confusion_Matrix.png)
+
 ## Author
 
 Syed Mohammed Saad
-B.E. CSE (Data Science)
+
 
