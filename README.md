@@ -96,6 +96,7 @@ This project analyzes customer churn behavior using the Telco Customer Churn dat
 
 ## Project Structure
 
+```text
 Customer_Churn_Prediction_Project/
 │
 ├── data/
@@ -141,6 +142,7 @@ Customer_Churn_Prediction_Project/
 ├── README.md
 ├── requirements.txt
 └── .gitignore
+```
 
 ## Author
 
