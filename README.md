@@ -146,17 +146,33 @@ Customer_Churn_Prediction_Project/
 
 ## Dashboard Preview
 
-![Dashboard](powerbi/dashboard_screenshots/Executive_Summary.png)
+### Executive Summary
+![Executive Summary](images/Executive_Summary.png)
 
+### Customer Analysis
+![Customer Analysis](images/Customer_Analysis.png)
+
+### Business Recommendations
+![Business Recommendations](images/Business_Recommendations.png)
 
 ## Customer Churn Analysis
 
+### Customer Churn Distribution
+![Customer Churn Distribution](images/Customer_Churn_Distribution.png)
 
-![Churn Distribution](images/Customer_Churn_Distribution.png)
-
+### Contract Type vs Churn
 ![Contract Type vs Churn](images/Contract_Type_vs_Churn.png)
 
+### Monthly Charges vs Churn
+![Monthly Charges vs Churn](images/Monthly_Charges_vs_Churn.png)
+
+### Tenure vs Churn
+![Tenure vs Churn](images/Tenure_vs_Churn.png)
+
+### Confusion Matrix
 ![Confusion Matrix](images/Confusion_Matrix.png)
+
+
 
 ## Author
 
